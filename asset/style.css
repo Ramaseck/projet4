@@ -1,0 +1,23 @@
+.nav-item {
+    background-image:url(imge.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+    padding: 20%;
+
+}
+a:hover{
+    color: blue;
+
+}
+.span{
+    padding-right: 10px;
+    margin-right: 50px;
+}
+
+.span span{
+    color: blue;
+}
+.w-100{
+    width: 100%;
+}
