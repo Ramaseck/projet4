@@ -1,4 +1,6 @@
 <a href="contact.html">Retour au site</a>
+
+
 <pre>
 <?php
 
@@ -12,7 +14,6 @@ echo"<br>";
 echo $_GET['chooce'];*/
 ?>
 </pre>
-
 <?php
 isset($_POST['button']);
 $button=$_POST['button'];
